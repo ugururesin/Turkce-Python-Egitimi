@@ -5,23 +5,25 @@
 
 ## İçerik Tablosu
 
-* [01. Temel Komutlar](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/01_R_Temel_Komutlar.R): Temel syntax ve operatörler  
+* [01. Giriş](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_01_Giris.ipynb): Temel syntax ve operatörler  
 
-* [02. Vektörler](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/02_R_Vektorler.R): Vektör oluşturma ve vektörlerle işlemler  
+* [02. Akış Kontrolleri](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_02_AKIS_Kontrolleri.ipynb): Akış kontrolleri yazma 
 
-* [03. Listeler](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/03_R_Listeler.R): Liste oluşturma ve listelerle işlemler  
+* [03. Listeler ve Demetler](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_03_Listeler_ve_Demetler.ipynb): Liste ve demet (tuple) veri yapılarında veri oluşturma ve veri operasyonları
 
-* [04. Matrisler ve Diziler](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/04_R_Matrisler_ve_Diziler.R): Matris ve dizi yapısında verileri oluşturma ve işleme  
+* [04. Sözlükler ve Kümeler](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_04_Sozlukler_ve_Kumeler.ipynb): Sozluk (dictionary) ve küme (set) veri yapılarında veri oluşturma ve veri operasyonları
 
-* [05. Tablo Veriler (Dataframes)](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/05_R_Tablo_Veriler.R): Tablo formatında veri yapıları oluşturma ve işleme  
+* [05. Fonksiyonlar](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_05_Fonksiyonlar.ipynb): Fonksiyon oluşturma ve fonksiyon özellikleri
 
-* [06. Akış Kontrolleri](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/06_R_Kontrol_Ifadeleri.R): if-else, for, while, repeat-break ve next yapıları  
+* [06. Modüller](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_06_Modulleripynb): Modülleri ekleme ve kullanma
 
-* [07. Fonksiyonlar](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/07_R_Fonksiyonlar.R): Fonksiyon oluşturma ve fonksiyon türleri
+* [07. Hata Kontrolü](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_07_Hata_Kontrolu.ipynb): Hata yönetimi teknikleri
 
-* [08. Hata Kontrolü](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/08_R_Hata_Kontrolu.R): Hata yönetimi
+* [08. Veri Okuma ve Yazma](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_08_Veri_Okuma_Yazma.ipynb): Harici veri dosyalarını yükleme ve işleme
 
-* [09. Veri Okuma ve Yazma](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/09_R_Veri_Okuma_ve_Yazma.R): Veri okuma ve yazma
+* [09. Numpy Kütüphanesi](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_09_Numpy_Kutuphanesi.ipynb): Numpy kütüphanesinde temel operasyonlar
+
+* [10. Pandas Kütüphanesi](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_10_Pandas_Kutuphanesi.ipynb): Pandas kütüphanesinde temel operasyonlar
 
 
 ## Lisans
