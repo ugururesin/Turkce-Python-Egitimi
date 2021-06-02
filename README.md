@@ -25,6 +25,8 @@
 
 * [10. Pandas Kütüphanesi](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_10_Pandas_Kutuphanesi.ipynb): Pandas kütüphanesinde temel operasyonlar
 
+* [11. Nesne Yönelimli Programlama](https://github.com/ugururesin/Turkce-Python-Egitimi/blob/main/Python_TR_11_Nesne_Yonelimli_Programlama.ipynb): Python'da class (sınıf) ve object (nesne) oluşturma teknikleri
+
 
 ## Lisans
 Bu repo altındaki tüm içerik [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) tarafından eğitim amaçlı oluşturulmuştur.  
