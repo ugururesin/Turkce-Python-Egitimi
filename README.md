@@ -30,5 +30,6 @@
 
 ## Lisans
 Bu repo altındaki tüm içerik [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) tarafından eğitim amaçlı oluşturulmuştur.  
-Sadece dökümanlar her seviyedeki öğrenci için yeterli değildir.  
+Tek başına dökümanlar, her seviyedeki öğrenci için yeterli olmayabilir.  
+Kurs talepleriniz için [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) ile iletişime geçebilirsiniz.  
 Referans verdiğiniz sürece, ticari olmayan kullanıma ve paylaşıma açıktır.  
