@@ -1,7 +1,7 @@
 # Türkçe Python Eğitim Notları - Uğur Üresin
 
 ## İletişim
-* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com.tr](mailto:uresin.ugur@gmail.com.tr)
+* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
 
 ## İçerik Tablosu
 
@@ -29,7 +29,7 @@
 
 
 ## Lisans
-Bu repo altındaki tüm içerik [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) tarafından eğitim amaçlı oluşturulmuştur.  
+Bu repo altındaki tüm içerik [Ugur Uresin](mailto:uresin.ugur@gmail.com) tarafından eğitim amaçlı oluşturulmuştur.  
 Tek başına dökümanlar, her seviyedeki öğrenci için yeterli olmayabilir.  
-Kurs talepleriniz için [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) ile iletişime geçebilirsiniz.  
+Kurs talepleriniz için [Ugur Uresin](mailto:uresin.ugur@gmail.com) ile iletişime geçebilirsiniz.  
 Referans verdiğiniz sürece, ticari olmayan kullanıma ve paylaşıma açıktır.  
