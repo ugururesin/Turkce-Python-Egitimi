@@ -1,4 +1,5 @@
-# Türkçe Python Eğitim Notları - Uğur Üresin
+# Türkçe Python Eğitim Notları
+Python programlama dilinin temel konularını içeren eğitim notlarıdır.
 
 ## İletişim
 * [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
@@ -31,5 +32,6 @@
 ## Lisans
 Bu repo altındaki tüm içerik [Ugur Uresin](mailto:uresin.ugur@gmail.com) tarafından eğitim amaçlı oluşturulmuştur.  
 Tek başına dökümanlar, her seviyedeki öğrenci için yeterli olmayabilir.  
+
 Kurs talepleriniz için [Ugur Uresin](mailto:uresin.ugur@gmail.com) ile iletişime geçebilirsiniz.  
 Referans verdiğiniz sürece, ticari olmayan kullanıma ve paylaşıma açıktır.  
